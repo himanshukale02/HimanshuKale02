@@ -1,5 +1,5 @@
 # About Me:
-- Hi, I’m Himanshu Kale<br>- I’m currently learning Full Stack Web Development<br>- I’m looking to collaborate on Web Devlopment<br>- How to reach me Email: himanshudkale@gmail.com
+- Hi, I’m Himanshu Kale<br>- I’m currently learning Full Stack Web Development<br>- I’m looking to collaborate on Web Devlopment<br>- How to reach me Email: himanshukale.work@gmail.com
 
 
 
